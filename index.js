@@ -12,8 +12,9 @@ const devices = [
   },
   {
     device_id: "fan_A",
-    device_type: "actuator",
-    certPrefix: "your_fan_cert_prefix_here",
+    device_type: "sensor",
+    certPrefix:
+      "28dab504066576183941ba81cad7da7ca07d1d5a4d7a8d3e820af3135504c6d5",
   },
 ];
 
